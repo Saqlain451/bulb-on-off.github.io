@@ -1,0 +1,19 @@
+body{
+    background-color:#1b1b32 !important;
+    width:100vw;
+    height:100vh;
+    display : grid;
+    align-items : center;
+}
+
+.box{
+    margin : auto;
+    background-color :transparent;
+    width : auto;
+    height : auto;
+    border-radius : 10px;
+}
+#switch{
+    width: 70px;
+    
+}
